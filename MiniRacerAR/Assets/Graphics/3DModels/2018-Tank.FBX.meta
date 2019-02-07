@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 84165ecec47ad45ca90e49042b102977
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AntennaChas1
+    100004: AntennaChas2
+    100006: AntennaTurret
+    100008: Bone001
+    100010: Bone002
+    100012: Bone003
+    100014: chassisLP
+    100016: Exhaust2
+    100018: Exhausts
+    100020: FuelPipes
+    100022: Peris
+    100024: PickNTarp
+    100026: PipesNHandles
+    100028: Tools
+    100030: Tracks
+    100032: TurretTraverser
+    100034: wheel
+    100036: wheel001
+    100038: wheel002
+    100040: wheel003
+    100042: wheel004
+    100044: wheel005
+    100046: wheel006
+    400000: //RootNode
+    400002: AntennaChas1
+    400004: AntennaChas2
+    400006: AntennaTurret
+    400008: Bone001
+    400010: Bone002
+    400012: Bone003
+    400014: chassisLP
+    400016: Exhaust2
+    400018: Exhausts
+    400020: FuelPipes
+    400022: Peris
+    400024: PickNTarp
+    400026: PipesNHandles
+    400028: Tools
+    400030: Tracks
+    400032: TurretTraverser
+    400034: wheel
+    400036: wheel001
+    400038: wheel002
+    400040: wheel003
+    400042: wheel004
+    400044: wheel005
+    400046: wheel006
+    2100000: 'Material #139'
+    2100002: No Name
+    2100004: 'Material #140'
+    2100006: 'Material #146'
+    2100008: 'Material #145'
+    2100010: 'Material #143'
+    2100012: 'Material #141'
+    2100014: 'Material #142'
+    2100016: 'Material #144'
+    2100018: Standardmaterial
+    2300000: AntennaChas1
+    2300002: AntennaChas2
+    2300004: AntennaTurret
+    2300006: Exhaust2
+    2300008: Exhausts
+    2300010: FuelPipes
+    2300012: Peris
+    2300014: PickNTarp
+    2300016: PipesNHandles
+    2300018: Tools
+    2300020: Tracks
+    2300022: TurretTraverser
+    2300024: wheel
+    2300026: wheel001
+    2300028: wheel002
+    2300030: wheel003
+    2300032: wheel004
+    2300034: wheel005
+    2300036: wheel006
+    3300000: AntennaChas1
+    3300002: AntennaChas2
+    3300004: AntennaTurret
+    3300006: Exhaust2
+    3300008: Exhausts
+    3300010: FuelPipes
+    3300012: Peris
+    3300014: PickNTarp
+    3300016: PipesNHandles
+    3300018: Tools
+    3300020: Tracks
+    3300022: TurretTraverser
+    3300024: wheel
+    3300026: wheel001
+    3300028: wheel002
+    3300030: wheel003
+    3300032: wheel004
+    3300034: wheel005
+    3300036: wheel006
+    4300000: chassisLP
+    4300002: AntennaChas2
+    4300004: wheel
+    4300006: wheel001
+    4300008: wheel002
+    4300010: wheel003
+    4300012: wheel004
+    4300014: wheel005
+    4300016: wheel006
+    4300018: AntennaChas1
+    4300020: AntennaTurret
+    4300022: Tracks
+    4300024: Exhausts
+    4300026: FuelPipes
+    4300028: PickNTarp
+    4300030: Exhaust2
+    4300032: TurretTraverser
+    4300034: PipesNHandles
+    4300036: Peris
+    4300038: Tools
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: chassisLP
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
